@@ -1,3 +1,5 @@
+Todo Cards are stored in a simple array . I used a DisplayState function to dynamically create and display todo cards based on the array. The Update, Edit, and DeleteCard functions handle status updates, editing todos (if needed), and deleting todos, respectively.
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
